@@ -1,2 +1,2 @@
 # websocket
-client and server for WebSocket
+Client and server for WebSocket
