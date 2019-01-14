@@ -1,0 +1,11 @@
+{
+  "url": {
+    "host": "127.0.0.1",
+    "port": "8282"
+  },
+
+  "msg": {
+    "type": "text",
+    "message": "Show msg"
+  }
+}
